@@ -1,5 +1,13 @@
 # Image-Gallery-with-Preline
 
+ <ul>
+      <li> I have used components from Preline UI library  </li>
+      <li> You can access free TailwindCSS components at Preline </li>
+</ul> 
+
+[Preline Link](http://preline.co)
+<br>
+<br>
 [Website Link](https://image-gallery-preline.netlify.app/)
 
 
